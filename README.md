@@ -13,7 +13,7 @@ Welcome to the Shep Book Shepherd Bot project, an innovative autonomous platform
 - **Secured Data Transmission**: Maintains data privacy with advanced encryption methods, suitable for edge computing scenarios.
 - **User-Centric Interface**: Provides an intuitive GUI for easy monitoring and management of operational tasks.
 - **All-Terrain Adaptability**: Robustly constructed to navigate and operate across diverse agricultural landscapes.
-- **The Platform***: 1986 AM General M998 HMMWV.
+- **The Platform**: 1986 AM General M998 HMMWV.
 
 ## Getting Started
 
